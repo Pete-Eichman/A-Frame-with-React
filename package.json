@@ -6,6 +6,8 @@
     "react-scripts": "0.9.5"
   },
   "dependencies": {
+    "aframe": "^0.5.0",
+    "aframe-react": "^3.5.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
