@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import VRScene from './VRScene';
 import './index.css';
 
+
 ReactDOM.render(
-  <App />,
+  <VRScene/>,
   document.getElementById('root')
 );
