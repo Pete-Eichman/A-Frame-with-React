@@ -1,7 +1,6 @@
 import 'aframe';
 import {Entity, Scene} from 'aframe-react';
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 class VRScene extends React.Component {
   render () {
